@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "579467839953",
+    "firebase_url": "https://covid-19-nigeria-aabd7.firebaseio.com",
+    "project_id": "covid-19-nigeria-aabd7",
+    "storage_bucket": "covid-19-nigeria-aabd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579467839953:android:c437ba1ced3eccfd7838f0",
+        "android_client_info": {
+          "package_name": "com.example.covid_19_nigeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579467839953-osi8v8jo4njrtmi1jubqgoet6lsq0uta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbhOufTQN_eJW7DekjWUZYb1M0qy2KDmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579467839953-osi8v8jo4njrtmi1jubqgoet6lsq0uta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
